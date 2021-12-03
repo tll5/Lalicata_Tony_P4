@@ -1,0 +1,36 @@
+body {
+    background-color: palegreen;
+}
+
+p.carousel-text {
+    text-align: center;
+    color: #0a53be;
+}
+.card {
+    padding: 1% 1% 0 1%;
+    background-color: lightblue;
+}
+
+.row-inputs {
+    margin: 0 15%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightskyblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+.btn-primary {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+/*DEVELOPER: Tony Lalicata, IS117-003, Fall 2021 */
